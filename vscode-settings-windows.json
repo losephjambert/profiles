@@ -1,0 +1,22 @@
+{
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "editor.tabSize": 2,
+  "git.ignoreMissingGitWarning": true,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.renderWhitespace": "all",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "glitch.token": "98235a5d-6ad0-47bf-a09c-9128325b35c8",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "prettier.printWidth": 90,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.requireConfig": true,
+  "editor.fontSize": 17
+}
