@@ -1,0 +1,17 @@
+{
+  "editor.tabSize": 2,
+  "git.ignoreMissingGitWarning": true,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.renderWhitespace": "all",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
+  "prettier.requireConfig": true,
+  "editor.fontSize": 17
+}
